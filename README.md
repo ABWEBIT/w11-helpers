@@ -1,8 +1,8 @@
 # W11-Helpers-Batch-File
 
 Run as Admin  
-W11-renew-ip.bat - Clear DNS cache and Renew IP Address  
-W11-service-remover.bat - Delete a Service (Change ServiceName)  
-W11-system-cleaner.bat - Clearing some directories in Windows  
-W11-system-optimizer.bat - Disabling Windows Services  
-W11-version-viewer.bat - Check Windows version  
+W11-renew-ip.bat - Очистка DNS кеша и обновление IP адреса  
+W11-service-remover.bat - Удаление сервиса (заменить ServiceName)  
+W11-system-cleaner.bat - Очистка директорий системы  
+W11-system-optimizer.bat - Отключение ненужных сервисов (мой выбор)  
+W11-version-viewer.bat - Вызов информативного окна (версия системы)  
