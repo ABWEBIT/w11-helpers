@@ -1,5 +1,3 @@
-:: run as admin
-
 :: Windows update
 powershell Stop-Service -Name wuauserv
 powershell Remove-Item "$env:WINDIR\SoftwareDistribution\Download\*" -Force -Recurse -ErrorAction SilentlyContinue
