@@ -2,4 +2,5 @@
 ipconfig /release
 ipconfig /flushdns
 ipconfig /renew
+
 exit
