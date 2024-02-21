@@ -1,7 +1,6 @@
 :: Windows update
 powershell Stop-Service -Name wuauserv
 powershell Remove-Item "$env:WINDIR\SoftwareDistribution\Download\*" -Force -Recurse -ErrorAction SilentlyContinue
-:: powershell Start-Service -Name wuauserv
 
 :: Prefetch
 powershell Remove-Item "$env:WINDIR\Prefetch\*" -Force -Recurse -ErrorAction SilentlyContinue
