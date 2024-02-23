@@ -6,4 +6,4 @@ W11-renew-ip.bat - Очистка DNS кеша и обновление IP адр
 W11-service-remover.bat - Удаление сервиса (заменить ServiceName)  
 W11-system-cleaner.bat - Очистка директорий системы и NVIDIA  
 W11-system-optimizer.bat - Отключение ненужных сервисов (мой список)  
-W11-version-viewer.bat - Вызов окна с информацией о версии системы  
+W11-version-viewer.bat - Отображение системной информации: название, версия, сборка  
