@@ -2,7 +2,7 @@
 
 Run as Admin  
 W11-hibernate-off.bat - Отключение гибернации  
-W11-ip-info.bat - Вывод информации о IP и Ethernet  
+W11-ip-info.bat - Вывод информации о IP и Ethernet (ipconfig /all)  
 W11-ip-renew.bat - Очистка DNS кеша и обновление IP адреса  
 W11-nvidia-cleaner.bat - Очистка директорий nvidia (Installer2, DXCache)  
 W11-service-remover.bat - Удаление сервиса (заменить ServiceName)  
