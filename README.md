@@ -1,6 +1,6 @@
 # W11-Helpers-Batch-File
 
-Run as Admin  
+Запускать от Админа  
 W11-hibernate-off.bat - Отключение гибернации  
 W11-ip-info.bat - Вывод информации о IP и Ethernet (ipconfig /all)  
 W11-ip-renew.bat - Очистка DNS кеша и обновление IP адреса  
