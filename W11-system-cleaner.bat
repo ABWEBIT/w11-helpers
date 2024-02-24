@@ -20,11 +20,6 @@ powershell Remove-Item "$env:LOCALAPPDATA\CrashDumps\*" -Force -Recurse -ErrorAc
 :: AppData Local D3DSCache
 powershell Remove-Item "$env:LOCALAPPDATA\D3DSCache\*" -Force -Recurse -ErrorAction SilentlyContinue
 
-:: NVIDIA
-powershell -NoProfile -Command ^
-  $nvidia = $env:PROGRAMFILES+'\NVIDIA Corporation\Installer2'; ^
-  if (Test-Path -Path $nvidia){Remove-Item $nvidia"\*" -Force -Recurse -ErrorAction SilentlyContinue}
-
 DEL /F /S /Q %SYSTEMDRIVE%\*.log
 DEL /F /S /Q %SYSTEMDRIVE%\*.bak
 DEL /F /S /Q %SYSTEMDRIVE%\*.tmp
