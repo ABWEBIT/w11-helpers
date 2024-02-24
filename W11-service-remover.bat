@@ -2,9 +2,9 @@
 title Service Remover
 setlocal
 
-SET /P SeriveName="Enter Service Name: "
-net stop %SeriveName%
-sc delete %SeriveName%
+SET /P ServiceName="Enter Service Name: "
+net stop %ServiceName%
+sc delete %ServiceName%
 
 pause > nul
 exit
