@@ -12,5 +12,6 @@ W11-system-optimizer.bat - Отключение ненужных сервисо�
 
 Полезное ПО  
 https://rufus.ie/en/  
+https://obsproject.com/  
 https://www.audacityteam.org/  
 https://filezilla-project.org/  
