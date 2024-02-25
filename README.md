@@ -23,3 +23,4 @@ https://filezilla-project.org/ - Работа с FTP
 https://www.hwinfo.com/ - Системная информация и диагностика  
 https://code.visualstudio.com/ - Редактор кода  
 https://www.libreoffice.org/ - Офисный пакет  
+https://anydesk.com/ - Удаленный доступ  
