@@ -11,4 +11,5 @@ W11-system-info.bat - Отображение системной информац
 W11-system-optimizer.bat - Отключение ненужных сервисов (мой список)  
 
 Полезное ПО  
-https://filezilla-project.org/
+https://filezilla-project.org/  
+https://rufus.ie/en/
