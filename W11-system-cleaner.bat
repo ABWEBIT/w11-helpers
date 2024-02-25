@@ -5,6 +5,12 @@ powershell Stop-Service -Name wuauserv
 powershell Remove-Item "$env:WINDIR\SoftwareDistribution\Download\*" -Force -Recurse -ErrorAction SilentlyContinue
 powershell Start-Service -Name wuauserv
 
+:: Delivery Optimization Cache
+powershell Remove-Item "$env:WINDIR\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\DeliveryOptimization\Cache\*" -Force -Recurse -ErrorAction SilentlyContinue
+
+:: Delivery Optimization Logs
+powershell Remove-Item "$env:WINDIR\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\DeliveryOptimization\Logs\*" -Force -Recurse -ErrorAction SilentlyContinue
+
 :: Prefetch
 powershell Remove-Item "$env:WINDIR\Prefetch\*" -Force -Recurse -ErrorAction SilentlyContinue
 
