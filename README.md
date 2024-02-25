@@ -9,3 +9,6 @@ W11-service-remover.bat - Удаление сервиса (заменить Serv
 W11-system-cleaner.bat - Очистка директорий системы  
 W11-system-info.bat - Отображение системной информации: название, версия, сборка  
 W11-system-optimizer.bat - Отключение ненужных сервисов (мой список)  
+
+Полезное ПО  
+https://filezilla-project.org/
