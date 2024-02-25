@@ -21,3 +21,4 @@ https://www.thunderbird.net/ - Почтовый клиент
 https://www.audacityteam.org/ - Аудиоредактор  
 https://filezilla-project.org/ - Работа с FTP  
 https://www.hwinfo.com/ - Системная информация и диагностика  
+https://code.visualstudio.com/ - Редактор кода  
