@@ -1,4 +1,4 @@
-# W11-Helpers-Batch-File
+# W11-Helpers
 
 Запускать от Админа, Windows 11  
 W11-hibernate-off.bat - Отключение гибернации  
