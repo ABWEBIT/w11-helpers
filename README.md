@@ -15,7 +15,7 @@ https://www.7-zip.org/ - Архиватор
 https://codecguide.com/ - Аудио, видео проигрыватель и кодеки  
 https://www.getpaint.net/ - Растровый графический редактор  
 https://www.qbittorrent.org/ - Торрент клиент  
-https://rufus.ie/en/ - Утилита, создание загрузочных флеш накопителей  
+https://rufus.ie/en/ - Создание загрузочных флеш накопителей  
 https://obsproject.com/ - Запись видео и потоковое вещание  
 https://www.thunderbird.net/ - Почтовый клиент  
 https://www.audacityteam.org/ - Аудиоредактор  
