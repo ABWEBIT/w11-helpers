@@ -11,11 +11,11 @@ W11-system-info.bat - Отображение системной информац
 W11-system-optimizer.bat - Отключение ненужных сервисов (мой список)  
 
 Полезное ПО  
-https://codecguide.com/  
-https://www.getpaint.net/  
-https://www.qbittorrent.org/  
-https://rufus.ie/en/  
-https://obsproject.com/  
-https://www.thunderbird.net/  
-https://www.audacityteam.org/  
-https://filezilla-project.org/  
+https://codecguide.com/ - Аудио, видео проигрыватель и кодеки  
+https://www.getpaint.net/ - Растровый графический редактор  
+https://www.qbittorrent.org/ - Торрент клиент  
+https://rufus.ie/en/ - Утилита, предназначена для создания загрузочных флеш накопителей  
+https://obsproject.com/ - Записи видео и потоковое вещание  
+https://www.thunderbird.net/ - Почтовый клиент  
+https://www.audacityteam.org/ - Аудиоредактор  
+https://filezilla-project.org/ - Работа с FTP  
