@@ -13,6 +13,7 @@ W11-system-optimizer.bat - Отключение ненужных сервисо�
 Полезное ПО  
 https://codecguide.com/  
 https://www.getpaint.net/  
+https://www.qbittorrent.org/  
 https://rufus.ie/en/  
 https://obsproject.com/  
 https://www.audacityteam.org/  
