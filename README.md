@@ -16,5 +16,6 @@ https://www.getpaint.net/
 https://www.qbittorrent.org/  
 https://rufus.ie/en/  
 https://obsproject.com/  
+https://www.thunderbird.net/
 https://www.audacityteam.org/  
 https://filezilla-project.org/  
