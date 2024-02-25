@@ -11,6 +11,7 @@ W11-system-info.bat - Отображение системной информац
 W11-system-optimizer.bat - Отключение ненужных сервисов (мой список)  
 
 Полезное ПО  
+https://www.7-zip.org/ - Архиватор  
 https://codecguide.com/ - Аудио, видео проигрыватель и кодеки  
 https://www.getpaint.net/ - Растровый графический редактор  
 https://www.qbittorrent.org/ - Торрент клиент  
