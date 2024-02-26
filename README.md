@@ -27,4 +27,4 @@ https://anydesk.com/ - Удалённый доступ
 https://www.any-video-converter.com/ - Медиаконвертер  
 
 Вспомогательное ПО  
-https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager - Менеджер памяти устройств Logitech
+https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager - Менеджер памяти Logitech устройств
