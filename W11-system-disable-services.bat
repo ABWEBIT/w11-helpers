@@ -1,4 +1,5 @@
 @echo off
+title Disable Services
 
 :: AllJoyn Router Service
 sc config AJRouter start= disabled
