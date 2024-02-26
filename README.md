@@ -26,5 +26,5 @@ https://www.libreoffice.org/ - Офисный пакет
 https://anydesk.com/ - Удалённый доступ  
 https://www.any-video-converter.com/ - Медиаконвертер  
 
-Вспомогательное ПО
+Вспомогательное ПО  
 https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager - Менеджер памяти устройств Logitech
