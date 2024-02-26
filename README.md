@@ -4,12 +4,12 @@
 W11-hibernate-off.bat - Отключение гибернации  
 W11-ip-info.bat - Вывод информации о IP и Ethernet (ipconfig /all)  
 W11-ip-renew.bat - Очистка DNS кеша и обновление IP адреса  
+W11-registry-modifications.bat - Показывает полное меню по нажатию на правую кнопку мышки  
 W11-nvidia-cleaner.bat - Очистка директорий nvidia (Installer2, DXCache) версия драйвера 551.52  
 W11-service-remover.bat - Удаление сервиса (заменить ServiceName)  
 W11-system-cleaner.bat - Очистка директорий системы  
 W11-system-disable-services.bat - Отключение ненужных сервисов (мой список)  
 W11-system-info.bat - Отображение системной информации: название, версия, сборка  
-W11-system-more-options.bat - Показывает полное меню по нажатию на правую кнопку мышки  
 
 Полезное ПО  
 https://www.7-zip.org/ - Архиватор  
