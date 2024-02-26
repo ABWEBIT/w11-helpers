@@ -10,6 +10,6 @@ reg add "HKCU\Software\Policies\Microsoft\Windows\Explorer" /v DisableSearchBoxS
 :: Select This PC instead of Quick Access in File Explorer
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v LaunchTo /t REG_DWORD /d 1 /f
 
-taskkill /F /IM explorer.exe & start explorer
+taskkill /F /IM explorer.exe & start explorer.exe
 
 exit
