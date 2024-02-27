@@ -33,6 +33,7 @@ https://www.libreoffice.org/ - Офисный пакет
 https://anydesk.com/ - Удалённый доступ  
 https://www.any-video-converter.com/ - Медиаконвертер  
 
-Вспомогательное ПО  
+Logitech  
 https://www.logitechg.com/en-us/innovation/g-hub.html - Logitech G HUB  
-https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager - Менеджер памяти Logitech устройств
+https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager - Менеджер памяти Logitech устройств  
+Установить Logitech G HUB, активировать внутреннюю память устройства, удалить Logitech G HUB. Последующую настройку устройства производить через программу Logitech Onboard Memory Manager
