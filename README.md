@@ -34,4 +34,5 @@ https://anydesk.com/ - Удалённый доступ
 https://www.any-video-converter.com/ - Медиаконвертер  
 
 Вспомогательное ПО  
+https://www.logitechg.com/en-us/innovation/g-hub.html - Logitech G HUB  
 https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager - Менеджер памяти Logitech устройств
