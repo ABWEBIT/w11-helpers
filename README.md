@@ -37,7 +37,7 @@ Logitech
 https://www.logitechg.com/en-us/innovation/g-hub.html - Logitech G HUB  
 https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager - Менеджер памяти Logitech устройств  
 
-G HUB - программа длч управлению устройствами Logitech и чтобы настройки работали, программа должна быть запущена.  
+G HUB - программа для управлению устройствами Logitech и чтобы настройки работали, программа должна быть запущена.  
 (для мышки) Установить G HUB, активировать внутреннюю память устройства, удалить G HUB.  
 Последующую настройку устройства производить через Onboard Memory Manager  
 Такой метод позволит:  
