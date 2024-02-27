@@ -37,7 +37,7 @@ Logitech
 https://www.logitechg.com/en-us/innovation/g-hub.html - G HUB  
 https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager - OMM
 
-G HUB - программа для настройки профиля (устройства).  
+G HUB - программа для настройки профиля устройства.  
 Профиль хранится в G HUB, поэтому программа должна быть запущена.  
 
 OMM - Менеджер внутренней памяти устройств.  
