@@ -15,7 +15,7 @@ W11-registry-tweaks.bat - Изменения в реестре
 W11-service-remover.bat - Удаление сервиса (заменить ServiceName)  
 W11-system-cleaner.bat - Очистка директорий системы  
 W11-system-disable-services.bat - Отключение ненужных сервисов (мой список)  
-W11-system-info.bat - Отображение системной информации: название, версия, сборка  
+W11-system-info.bat - Отображение системной информации  
 
 ### Полезное ПО  
 https://www.7-zip.org/ - Архиватор  
