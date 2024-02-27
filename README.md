@@ -33,7 +33,7 @@ https://www.libreoffice.org/ - Офисный пакет
 https://anydesk.com/ - Удалённое администрирование  
 https://www.any-video-converter.com/ - Медиаконвертер  
 
-*Logitech*
+### Logitech  
 https://www.logitechg.com/en-us/innovation/g-hub.html - G HUB  
 https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager - OMM
 
