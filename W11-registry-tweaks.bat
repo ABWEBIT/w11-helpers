@@ -10,6 +10,9 @@ reg add "HKCU\Software\Policies\Microsoft\Windows\Explorer" /v DisableSearchBoxS
 :: Open File Explorer to: This PC
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v LaunchTo /t REG_DWORD /d 1 /f
 
+:: Show File Extensions
+reg add "HKCU\Software\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v HideFileExt /t REG_DWORD /d 0 /f
+
 taskkill /F /IM explorer.exe & start explorer.exe
 
 pause > nul
