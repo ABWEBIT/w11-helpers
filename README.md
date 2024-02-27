@@ -5,10 +5,12 @@ W11-hibernate-off.bat - Отключение гибернации
 W11-ip-info.bat - Вывод информации о IP и Ethernet (ipconfig /all)  
 W11-ip-renew.bat - Очистка DNS кеша и обновление IP адреса  
 W11-nvidia-cleaner.bat - Очистка директорий nvidia (Installer2, DXCache) версия драйвера 551.52  
+
 W11-registry-modifications.bat - Изменения в реестре  
 -> Возвращаем классическое меню при нажатии правой кнопки мыши  
 -> Отключаем подсказки Bing в меню "Пуск" при поиске  
 -> В проводнике файлов открывается "этот компьютер"  
+
 W11-service-remover.bat - Удаление сервиса (заменить ServiceName)  
 W11-system-cleaner.bat - Очистка директорий системы  
 W11-system-disable-services.bat - Отключение ненужных сервисов (мой список)  
