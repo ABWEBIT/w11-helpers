@@ -5,9 +5,11 @@ W11-hibernate-off.bat - Отключение гибернации
 W11-ip-info.bat - Вывод информации о IP и Ethernet (ipconfig /all)  
 W11-ip-renew.bat - Очистка DNS кеша и обновление IP адреса  
 W11-nvidia-cleaner.bat - Очистка директорий nvidia (Installer2, DXCache) 551.52  
-W11-registry-modifications.bat  
 
-W11-registry-tweaks.bat - Некритичные изменения в реестре  
+W11-registry-modifications.bat - Значительные изменения системы через реестр  
+-> Отключение оптимизации доставки обновлений
+
+W11-registry-tweaks.bat - Незначительные изменения системы через реестре  
 -> Классическое меню при нажатии правой кнопки мыши  
 -> Отключение подсказок Bing в меню "Пуск"  
 -> В проводнике файлов открывается "Этот компьютер"  
