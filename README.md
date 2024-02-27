@@ -36,7 +36,7 @@ https://www.any-video-converter.com/ - Медиаконвертер
 Logitech  
 https://www.logitechg.com/en-us/innovation/g-hub.html - Logitech G HUB  
 https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager - Менеджер памяти Logitech устройств  
-Установить Logitech G HUB, активировать внутреннюю память устройства, удалить Logitech G HUB.  
+(Мышки) Установить Logitech G HUB, активировать внутреннюю память устройства, удалить Logitech G HUB.  
 Последующую настройку устройства производить через программу Logitech Onboard Memory Manager  
 Такой метод позволит:  
 -> сэкономить место на диске. установленный G HUB с архивами может занимать гигабайты  
