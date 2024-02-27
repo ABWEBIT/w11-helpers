@@ -35,9 +35,14 @@ https://www.any-video-converter.com/ - Медиаконвертер
 
 Logitech  
 https://www.logitechg.com/en-us/innovation/g-hub.html - G HUB  
-https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager - Менеджер памяти Logitech устройств  
+https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager - OMM
 
-G HUB - программа для настройки профиля (устройства). профиль хранится в G HUB, поэтому программа должна быть запущена.  
+G HUB - программа для настройки профиля (устройства).  
+Профиль хранится в G HUB, поэтому программа должна быть запущена.  
+
+OMM - Менеджер внутренней памяти устройств.  
+Менеджер позволяет редактировать настройки профиля находящегося на устройстве Logitech.
+
 (для мышки) Установить G HUB, активировать внутреннюю память устройства, удалить G HUB.  
 Последующую настройку устройства производить через Onboard Memory Manager  
 Такой метод позволит:  
