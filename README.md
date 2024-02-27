@@ -31,7 +31,7 @@ https://www.hwinfo.com/ - Системная информация и диагн�
 https://code.visualstudio.com/ - Редактор кода  
 https://www.libreoffice.org/ - Офисный пакет  
 https://anydesk.com/ - Удалённое администрирование  
-https://www.any-video-converter.com/ - Медиаконвертер  
+https://www.any-video-converter.com/ - Преобразование аудио и видео файлов в другие форматы  
 
 ### Logitech  
 https://www.logitechg.com/en-us/innovation/g-hub.html - G HUB  
