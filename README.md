@@ -19,7 +19,7 @@ W11-system-info.bat - Отображение системной информац
 
 Полезное ПО  
 https://www.7-zip.org/ - Архиватор  
-https://codecguide.com/ - Аудио, видео проигрыватель и кодеки  
+https://codecguide.com/ - Аудио и видео проигрыватель плюс кодеки  
 https://www.getpaint.net/ - Редактор растровой графики   
 https://www.qbittorrent.org/ - Торрент клиент  
 https://rufus.ie/en/ - Создание загрузочных флеш накопителей  
