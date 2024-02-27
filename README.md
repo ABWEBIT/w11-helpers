@@ -16,7 +16,6 @@ W11-system-cleaner.bat - Очистка директорий системы
 W11-system-disable-services.bat - Отключение ненужных сервисов (мой список)  
 W11-system-info.bat - Отображение системной информации: название, версия, сборка  
 
--  
 Полезное ПО  
 https://www.7-zip.org/ - Архиватор  
 https://codecguide.com/ - Аудио, видео проигрыватель и кодеки  
@@ -33,6 +32,5 @@ https://www.libreoffice.org/ - Офисный пакет
 https://anydesk.com/ - Удалённый доступ  
 https://www.any-video-converter.com/ - Медиаконвертер  
 
--  
 Вспомогательное ПО  
 https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager - Менеджер памяти Logitech устройств
