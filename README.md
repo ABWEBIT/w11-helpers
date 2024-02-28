@@ -16,6 +16,7 @@ W11-service-remover.bat - Удаление сервиса (заменить Serv
 W11-system-cleaner.bat - Очистка директорий системы  
 W11-system-disable-services.bat - Отключение ненужных сервисов (мой список)  
 W11-system-info.bat - Отображение системной информации  
+W11-winsxs-cleaner.bat - Анализ и безопасная очистка папки WinSxS  
 
 ### Полезное ПО  
 https://www.7-zip.org/ - Архиватор  
