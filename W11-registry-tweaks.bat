@@ -16,6 +16,9 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v Hi
 :: Lowering Menu Show Delay 400 -> 100
 reg add "HKCU\Control Panel\Desktop" /v MenuShowDelay /t REG_SZ /d 100 /f
 
+:: Disable Advertising ID for Personalized Ads
+reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\AdvertisingInfo" /v Enabled /t REG_DWORD /d 0 /f
+
 taskkill /F /IM explorer.exe
 start explorer.exe
 
