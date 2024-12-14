@@ -21,7 +21,7 @@ W11-system-disable-services.bat - Отключение ненужных серв
 W11-system-info.bat - Отображение системной информации  
 W11-winsxs-cleaner.bat - Анализ и безопасная очистка папки WinSxS  
 
-### Полезное ПО  
+### Полезное и бесплатно ПО  
 https://www.7-zip.org/ - Архиватор  
 https://codecguide.com/ - Аудио и видео проигрыватель плюс кодеки  
 https://www.getpaint.net/ - Редактор растровой графики   
@@ -36,7 +36,7 @@ https://code.visualstudio.com/ - Редактор кода
 https://www.libreoffice.org/ - Офисный пакет  
 https://anydesk.com/ - Удалённое администрирование  
 https://www.any-video-converter.com/ - Преобразование медиафайлов в другие форматы  
-https://www.kaspersky.ru/downloads/free-antivirus - Kaspersky для Windows, бесплатно  
+https://www.kaspersky.ru/downloads/free-antivirus - Kaspersky для Windows  
 
 ### Logitech  
 https://www.logitechg.com/en-us/innovation/g-hub.html - G HUB  
