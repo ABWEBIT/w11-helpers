@@ -38,6 +38,7 @@ https://anydesk.com/ - Удалённое администрирование
 https://www.any-video-converter.com/ - Преобразование медиафайлов в другие форматы  
 https://www.kaspersky.ru/downloads/free-antivirus - Kaspersky для Windows  
 https://www.blender.org/ - Blender, 3D моделирование  
+https://www.gigabyte.com/Consumer/Software/GIGABYTE-Control-Center/global/ - Управление устройствами Gigabyte
 
 ### Logitech  
 https://www.logitechg.com/en-us/innovation/g-hub.html - G HUB  
