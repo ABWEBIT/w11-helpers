@@ -39,7 +39,7 @@ https://www.kaspersky.ru/downloads/free-antivirus - Kaspersky для Windows
 
 ### Работа c 3D
 https://www.blender.org/ - 3D моделирование  
-https://www.d5render.com/  - инструмент для создания реалистичных визуализаций  
+https://www.d5render.com/  - Инструмент для создания реалистичных визуализаций  
 
 ### Работа с видео
 профессиональная программа для цветокоррекции, монтажа и обработки видео  
