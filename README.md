@@ -33,7 +33,6 @@ https://www.audacityteam.org/ - Аудиоредактор
 https://filezilla-project.org/ - Работа с FTP  
 https://www.hwinfo.com/ - Системная информация и диагностика  
 https://code.visualstudio.com/ - Редактор кода  
-
 https://anydesk.com/ - Удалённое администрирование  
 https://www.kaspersky.ru/downloads/free-antivirus - Kaspersky для Windows  
 
