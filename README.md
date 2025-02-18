@@ -37,9 +37,9 @@ https://code.visualstudio.com/ - Редактор кода
 https://anydesk.com/ - Удалённое администрирование  
 https://www.kaspersky.ru/downloads/free-antivirus - Kaspersky для Windows  
 
-### Работа с документами, офисный пакет
-https://www.onlyoffice.com/download-desktop.aspx - есть русский, поддерживает .docx, .xlsx, .pptx  
-https://www.libreoffice.org/ - есть русский, поддерживает .docx, .xlsx, .pptx  
+### Работа с документами
+https://www.onlyoffice.com/download-desktop.aspx - поддерживает .docx, .xlsx, .pptx  
+https://www.libreoffice.org/ - поддерживает .docx, .xlsx, .pptx  
 
 ### Работа c 3D
 https://www.blender.org/ - 3D моделирование  
