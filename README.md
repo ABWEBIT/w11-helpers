@@ -38,15 +38,15 @@ https://anydesk.com/ - Удалённое администрирование
 https://www.kaspersky.ru/downloads/free-antivirus - Kaspersky для Windows  
 
 ### Работа с документами
-https://www.onlyoffice.com/download-desktop.aspx - поддерживает .docx, .xlsx, .pptx  
-https://www.libreoffice.org/ - поддерживает .docx, .xlsx, .pptx  
+https://www.onlyoffice.com/download-desktop.aspx - Поддерживает форматы: .docx, .xlsx, .pptx  
+https://www.libreoffice.org/ - Поддерживает форматы: .docx, .xlsx, .pptx  
 
 ### Работа c 3D
 https://www.blender.org/ - 3D моделирование  
 https://www.d5render.com/  - Инструмент для создания реалистичных визуализаций  
 
 ### Работа с видео
-https://www.blackmagicdesign.com/products/davinciresolve - профессиональная программа для цветокоррекции, монтажа и обработки видео  
+https://www.blackmagicdesign.com/products/davinciresolve - Профессиональная программа для цветокоррекции, монтажа и обработки видео  
 https://www.any-video-converter.com/ - Преобразование медиафайлов в другие форматы  
 
 ### Logitech  
