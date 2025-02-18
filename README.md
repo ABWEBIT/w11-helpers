@@ -38,8 +38,8 @@ https://anydesk.com/ - Удалённое администрирование
 https://www.kaspersky.ru/downloads/free-antivirus - Kaspersky для Windows  
 
 ### Работа с документами
-https://www.onlyoffice.com/download-desktop.aspx - Поддерживает форматы: .docx, .xlsx, .pptx  
-https://www.libreoffice.org/ - Поддерживает форматы: .docx, .xlsx, .pptx  
+https://www.onlyoffice.com/download-desktop.aspx - Поддерживает форматы: docx, xlsx, pptx  
+https://www.libreoffice.org/ - Поддерживает форматы: docx, xlsx, pptx  
 
 ### Работа c 3D
 https://www.blender.org/ - 3D моделирование  
