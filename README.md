@@ -45,8 +45,8 @@ https://www.kaspersky.ru/downloads/free-antivirus - Kaspersky для Windows
 [D5 Render](https://www.d5render.com/)  - Создание реалистичных визуализаций
 
 ### Работа с видео
-[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Обработки видео\
-[FFmpeg](https://www.ffmpeg.org/) - Набор библиотек и инструментов для работы с мультимедиа через командную строку
+[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Обработка видео\
+[FFmpeg](https://www.ffmpeg.org/) - Мощный инструмент для работы с мультимедиа через командную строку
 
 ### Logitech
 https://www.logitechg.com/en-us/innovation/g-hub.html - G HUB\
