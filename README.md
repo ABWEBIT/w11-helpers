@@ -21,7 +21,7 @@ W11-system-disable-services.bat - Отключение ненужных серв
 W11-system-info.bat - Отображение системной информации  
 W11-winsxs-cleaner.bat - Анализ и безопасная очистка папки WinSxS  
 
-### Полезное и бесплатно ПО  
+### Бесплатное ПО  
 https://www.7-zip.org/ - Архиватор  
 https://codecguide.com/ - Аудио и видео проигрыватель плюс кодеки  
 https://www.getpaint.net/ - Редактор растровой графики   
