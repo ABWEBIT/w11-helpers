@@ -45,9 +45,8 @@ https://www.blender.org/ - 3D моделирование
 https://www.d5render.com/  - Инструмент для создания реалистичных визуализаций  
 
 ### Работа с видео
-https://www.blackmagicdesign.com/products/davinciresolve - Профессиональная программа для цветокоррекции, монтажа и обработки видео  
-https://www.any-video-converter.com/ - Преобразование медиафайлов в другие форматы  
-https://www.ffmpeg.org/ - Мощный набор библиотек и инструментов для работы с мультимедиа  
+[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Профессиональная программа для обработки видео  
+[FFmpeg](https://www.ffmpeg.org/) - Мощный набор библиотек и инструментов для работы с мультимедиа через командную строку  
 
 ### Logitech  
 https://www.logitechg.com/en-us/innovation/g-hub.html - G HUB  
