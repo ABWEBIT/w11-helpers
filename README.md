@@ -42,11 +42,11 @@ https://www.kaspersky.ru/downloads/free-antivirus - Kaspersky для Windows
 
 ### Работа c 3D
 [Blender](https://www.blender.org/) - 3D моделирование\
-[D5 Render](https://www.d5render.com/)  - Инструмент для создания реалистичных визуализаций
+[D5 Render](https://www.d5render.com/)  - Создание реалистичных визуализаций
 
 ### Работа с видео
-[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Профессиональная программа для обработки видео\
-[FFmpeg](https://www.ffmpeg.org/) - Мощный набор библиотек и инструментов для работы с мультимедиа через командную строку
+[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Обработки видео\
+[FFmpeg](https://www.ffmpeg.org/) - Набор библиотек и инструментов для работы с мультимедиа через командную строку
 
 ### Logitech
 https://www.logitechg.com/en-us/innovation/g-hub.html - G HUB\
