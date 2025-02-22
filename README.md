@@ -41,8 +41,8 @@ https://www.kaspersky.ru/downloads/free-antivirus - Kaspersky для Windows
 [LibreOffice](https://www.libreoffice.org/) - Офисный пакет, поддерживает: docx, xlsx, pptx
 
 ### Работа c 3D
-https://www.blender.org/ - 3D моделирование\
-https://www.d5render.com/  - Инструмент для создания реалистичных визуализаций
+[Blender](https://www.blender.org/) - 3D моделирование\
+[D5 Render](https://www.d5render.com/)  - Инструмент для создания реалистичных визуализаций
 
 ### Работа с видео
 [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Профессиональная программа для обработки видео\
