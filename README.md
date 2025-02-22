@@ -37,8 +37,8 @@ https://anydesk.com/ - Удалённое администрирование\
 https://www.kaspersky.ru/downloads/free-antivirus - Kaspersky для Windows
 
 ### Работа с документами
-[OnlyOffice](https://www.onlyoffice.com/download-desktop.aspx) - Офисный пакет, поддерживает форматы: docx, xlsx, pptx\
-[LibreOffice](https://www.libreoffice.org/) - Офисный пакет, поддерживает форматы: docx, xlsx, pptx
+[OnlyOffice](https://www.onlyoffice.com/download-desktop.aspx) - Офисный пакет, поддерживает: docx, xlsx, pptx\
+[LibreOffice](https://www.libreoffice.org/) - Офисный пакет, поддерживает: docx, xlsx, pptx
 
 ### Работа c 3D
 https://www.blender.org/ - 3D моделирование\
