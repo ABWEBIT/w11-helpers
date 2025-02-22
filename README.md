@@ -1,6 +1,6 @@
 # W11-Helpers
 
-Запускать от Админа, Windows 11 Home\
+Запускать от Админа, Windows 11 Home
 
 W11-hibernate-off.bat - Отключение гибернации
 W11-ip-info.bat - Вывод информации о IP и Ethernet (ipconfig /all)  
