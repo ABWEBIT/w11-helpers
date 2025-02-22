@@ -3,9 +3,9 @@
 Запускать от Админа, Windows 11 Home
 
 W11-hibernate-off.bat - Отключение гибернации
-W11-ip-info.bat - Вывод информации о IP и Ethernet (ipconfig /all)  
-W11-ip-renew.bat - Очистка DNS кеша и обновление IP адреса  
-W11-nvidia-cleaner.bat - Очистка директорий nvidia (Installer2, DXCache) 551.52  
+W11-ip-info.bat - Вывод информации о IP и Ethernet (ipconfig /all)
+W11-ip-renew.bat - Очистка DNS кеша и обновление IP адреса
+W11-nvidia-cleaner.bat - Очистка директорий nvidia (Installer2, DXCache) 551.52
 
 W11-registry-tweaks.bat - Незначительные изменения системы через реестр  
 -> Классическое меню при нажатии правой кнопки мыши  
