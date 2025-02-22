@@ -47,6 +47,7 @@ https://www.d5render.com/  - Инструмент для создания реа
 ### Работа с видео
 https://www.blackmagicdesign.com/products/davinciresolve - Профессиональная программа для цветокоррекции, монтажа и обработки видео  
 https://www.any-video-converter.com/ - Преобразование медиафайлов в другие форматы  
+https://www.ffmpeg.org/ - Мощный набор библиотек и инструментов для работы с мультимедиа  
 
 ### Logitech  
 https://www.logitechg.com/en-us/innovation/g-hub.html - G HUB  
