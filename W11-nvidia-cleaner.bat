@@ -8,7 +8,7 @@ powershell -NoProfile -Command ^
   Remove-Variable -Name Installer, approval
 
 powershell -NoProfile -Command ^
-  $DXCache = $env:USERPROFILE+'\AppData\LocalLow\NVIDIA\DXCache'; ^
+  $DXCache = $env:USERPROFILE+'\AppData\Local\NVIDIA\DXCache'; ^
   $approval = Read-Host -Prompt 'Clear NVIDIA DXCache - y / n'; ^
   if ((Test-Path -Path $DXCache) -and ($approval -eq 'y')){Remove-Item $DXCache"\*" -Force -Recurse -ErrorAction SilentlyContinue}; ^
   Remove-Variable -Name DXCache, approval
