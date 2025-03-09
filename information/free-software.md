@@ -12,8 +12,10 @@ https://www.hwinfo.com/ - System Diagnostics\
 https://code.visualstudio.com/ - Code Editor\
 https://anydesk.com/ - Remote Administration\
 [Kaspersky](https://www.kaspersky.com/downloads/free-antivirus) - Antivirus for Windows\
-[OnlyOffice](https://www.onlyoffice.com/download-desktop.aspx) - Office Suite (docx, xlsx, pptx)\
-[LibreOffice](https://www.libreoffice.org/) - Office Suite (docx, xlsx, pptx)
+
+### Office Suite
+[OnlyOffice](https://www.onlyoffice.com/download-desktop.aspx) - docx, xlsx, pptx\
+[LibreOffice](https://www.libreoffice.org/) - docx, xlsx, pptx
 
 ### 3D
 [Blender](https://www.blender.org/) - 3D Modelling\
