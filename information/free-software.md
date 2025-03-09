@@ -23,7 +23,7 @@ https://codecguide.com/ - MPC-HC Player, Codecs
 https://anydesk.com/ - Remote Administration\
 https://www.hwinfo.com/ - Diagnostics, Information\
 https://www.techpowerup.com/gpuz/ - Diagnostics, Information\
-https://rufus.ie/en/ - Bootable USB Flash Drives\
+https://rufus.ie/en/ - Create Bootable USB Flash Drive\
 https://www.7-zip.org/ - Archiver\
 https://www.qbittorrent.org/ - Torrent Client\
 https://filezilla-project.org/ - FTP Client\
