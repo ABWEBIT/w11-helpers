@@ -1,13 +1,8 @@
 # Free Software
 
-### Archiver
-https://www.7-zip.org/
-
-### Audio and video player, codecs
-https://codecguide.com/
-
-### Raster Graphics Editor
-https://www.getpaint.net/
+https://www.7-zip.org/ - Archiver\
+https://codecguide.com/ - MPC-HC player, codecs\
+https://www.getpaint.net/ - Raster Graphics Editor\
 
 ### Torrent client
 https://www.qbittorrent.org/
@@ -43,11 +38,8 @@ https://www.kaspersky.com/downloads/free-antivirus
 [OnlyOffice](https://www.onlyoffice.com/download-desktop.aspx) - Офисный пакет, поддерживает: docx, xlsx, pptx\
 [LibreOffice](https://www.libreoffice.org/) - Офисный пакет, поддерживает: docx, xlsx, pptx
 
-### 3D modelling, rendering
-[Blender](https://www.blender.org/) - 3D моделирование\
-[D5 Render](https://www.d5render.com/)  - Создание реалистичных визуализаций
-
-### Video editing
-[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Обработка видео\
-[FFmpeg](https://www.ffmpeg.org/) - Мощный инструмент для работы с мультимедиа через командную строку
+[Blender](https://www.blender.org/) - 3D modelling\
+[D5 Render](https://www.d5render.com/) - 3D rendering\
+[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Video editing\
+[FFmpeg](https://www.ffmpeg.org/) - Video editing
 
