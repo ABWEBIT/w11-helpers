@@ -12,10 +12,14 @@ https://filezilla-project.org/ - FTP Client\
 https://www.hwinfo.com/ - System Diagnostics\
 https://code.visualstudio.com/ - Code Editor\
 https://anydesk.com/ - Remote Administration\
-https://www.kaspersky.com/downloads/free-antivirus - Antivirus for Windows\
+[Kaspersky](https://www.kaspersky.com/downloads/free-antivirus) - Antivirus for Windows\
 [OnlyOffice](https://www.onlyoffice.com/download-desktop.aspx) - Office Suite (docx, xlsx, pptx)\
 [LibreOffice](https://www.libreoffice.org/) - Office Suite (docx, xlsx, pptx)
+
+### 3D
 [Blender](https://www.blender.org/) - 3D Modelling\
 [D5 Render](https://www.d5render.com/) - 3D Rendering\
-[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Video Editing\
-[FFmpeg](https://www.ffmpeg.org/) - Video Editing
+
+### Video Editing
+[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+[FFmpeg](https://www.ffmpeg.org/)
