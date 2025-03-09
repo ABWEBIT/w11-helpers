@@ -1,4 +1,4 @@
-### Бесплатное ПО
+# Free Software
 https://www.7-zip.org/ - Архиватор\
 https://codecguide.com/ - Аудио и видео проигрыватель, кодеки\
 https://www.getpaint.net/ - Редактор растровой графики\
