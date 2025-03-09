@@ -51,17 +51,3 @@ https://www.kaspersky.com/downloads/free-antivirus
 [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Обработка видео\
 [FFmpeg](https://www.ffmpeg.org/) - Мощный инструмент для работы с мультимедиа через командную строку
 
-### Logitech
-https://www.logitechg.com/en-us/innovation/g-hub.html - G HUB\
-https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager - OMM
-
-G HUB - программа для настройки профилей устройств от Logitech.\
-Профили хранятся в G HUB, поэтому программа должна быть запущена.
-
-OMM - Менеджер внутренней памяти мышей от Logitech.\
-Менеджер позволяет редактировать настройки профиля находящегося на устройстве.
-
-(для мышки) Установить G HUB, активировать внутреннюю память устройства, удалить G HUB.\
-Последующую настройку производить через OMM
-
-Такой метод позволит: сэкономить место на диске; снизить потребление оперативной памяти и ускорить загрузку профиля.
