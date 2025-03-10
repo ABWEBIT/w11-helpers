@@ -1,7 +1,4 @@
 # W11-Helpers
-
-Run as Amin, Windows 11 Home
-
 W11-cleaner-nvidia.bat - Cleaning NVIDIA Directories (Installer2, DXCache) 572.60\
 W11-cleaner-system.bat - Cleaning System Directories\
 W11-cleaner-winsxs.bat - Analysis and Safe Cleanup of the WinSxS Folder\
