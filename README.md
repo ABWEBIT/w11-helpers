@@ -20,3 +20,9 @@ W11-system-cleaner.bat - Очистка директорий системы\
 W11-system-disable-services.bat - Отключение ненужных сервисов (мой список)\
 W11-system-info.bat - Отображение системной информации\
 W11-winsxs-cleaner.bat - Анализ и безопасная очистка папки WinSxS
+
+### Free Software
+https://github.com/ABWEBIT/w11-helpers/blob/main/hints/free-software.md
+
+### Logitech Onboard Memory Manager
+https://github.com/ABWEBIT/w11-helpers/blob/main/hints/logitech.md
