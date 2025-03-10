@@ -1,4 +1,9 @@
 Disabling Multi-Plane Overlay (MPO) may fix desktop flickering / stuttering when resizing a window.
 ```
-mpo_disable.reg
+mpo-disable.reg
+```
+
+Lowering menu show delay 400 -> 100
+```
+menu-100.reg
 ```
