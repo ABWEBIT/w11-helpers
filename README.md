@@ -12,3 +12,6 @@ https://github.com/ABWEBIT/w11-helpers/blob/main/tips/free-software.md
 
 ### Logitech Onboard Memory Manager
 https://github.com/ABWEBIT/w11-helpers/blob/main/tips/logitech-omm.md
+
+### Registry Tweaks
+https://github.com/ABWEBIT/w11-helpers/tree/main/registry
