@@ -14,7 +14,7 @@ https://www.getpaint.net/ - Raster Graphics Editor
 
 ### Video / Audio
 https://www.blackmagicdesign.com/products/davinciresolve - Video and Audio Editor\
-https://www.ffmpeg.org/ - Video and Audio Editor\
+https://www.ffmpeg.org/ - Video and Audio Editor (Command Line)\
 https://www.audacityteam.org/ - Audio Editor\
 https://obsproject.com/ - Video Recording and Streaming\
 https://codecguide.com/ - MPC-HC Player, Codecs
