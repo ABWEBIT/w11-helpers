@@ -25,4 +25,4 @@ W11-winsxs-cleaner.bat - Анализ и безопасная очистка п�
 https://github.com/ABWEBIT/w11-helpers/blob/main/hints/free-software.md
 
 ### Logitech Onboard Memory Manager
-https://github.com/ABWEBIT/w11-helpers/blob/main/hints/logitech.md
+https://github.com/ABWEBIT/w11-helpers/blob/main/hints/logitech-omm.md
