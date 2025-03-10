@@ -22,7 +22,7 @@ W11-system-info.bat - Отображение системной информац
 W11-winsxs-cleaner.bat - Анализ и безопасная очистка папки WinSxS
 
 ### Free Software
-https://github.com/ABWEBIT/w11-helpers/blob/main/hints/free-software.md
+https://github.com/ABWEBIT/w11-helpers/blob/main/tips/free-software.md
 
 ### Logitech Onboard Memory Manager
-https://github.com/ABWEBIT/w11-helpers/blob/main/hints/logitech-omm.md
+https://github.com/ABWEBIT/w11-helpers/blob/main/tips/logitech-omm.md
