@@ -21,8 +21,8 @@ https://codecguide.com/ - MPC-HC Player, Codecs
 
 ### Administration / Diagnostics / Utilities
 https://anydesk.com/ - Remote Administration\
-https://www.hwinfo.com/ - Diagnostics, Information\
-https://www.techpowerup.com/gpuz/ - Diagnostics, Information\
+https://www.hwinfo.com/ - Hardware Analysis, Monitoring\
+https://www.techpowerup.com/gpuz/ - GPU Information\
 https://rufus.ie/en/ - Create Bootable USB Flash Drive\
 https://www.7-zip.org/ - Archiver\
 https://www.qbittorrent.org/ - Torrent Client\
